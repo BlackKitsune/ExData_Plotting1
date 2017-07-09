@@ -24,6 +24,3 @@ dev.off()
 dev.copy(png, "plot1.png", width=480, height=480)
 dev.off()
 
-# For some reason, this does not work
-# png("plot1.R", width=480, height=480)
-# dev.off()
